@@ -4,6 +4,7 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
+       <button>kill yourself</button>
       <Title>Hello World</Title>
       <h1>Hello world!</h1>
       <Counter />
@@ -17,3 +18,4 @@ export default function Home() {
     </main>
   );
 }
+
